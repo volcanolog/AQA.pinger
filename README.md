@@ -12,7 +12,7 @@ MS Visual Studio 2010
 </aquareader>
 ```
 * Запрос на https://www.aqa.ru/forum/aqareader.php?last=$tid возвращает список тем, обновленных с момента $tid
-Если $tid не указан, то возвращаются темы за сутки.
+* Если $tid не указан, то возвращаются темы за сутки.
 ```
 <aquareader>
     <post>
